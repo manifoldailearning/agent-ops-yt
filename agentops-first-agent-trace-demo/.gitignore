@@ -1,0 +1,13 @@
+agentops_first_trace.md
+
+.env
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+AI-Agent-Observability-Checklist.pdf
